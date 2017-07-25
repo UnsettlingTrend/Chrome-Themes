@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "manifest_version": 2,
+  "name": "Blood Red",
+  "description": "Simple theme for development purposes, created by Unsettling Trend",
+  "theme": {
+    "images" : {
+    },
+    "colors" : {
+      "frame" : [105, 71, 71],
+      "toolbar" : [223, 195, 195],
+      "ntp_text" : [41, 8, 0],
+      "ntp_link" : [70, 14, 0],
+      "ntp_section" : [223, 195, 195],
+      "button_background" : [255, 255, 255]
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom"
+    }
+  }
+}
